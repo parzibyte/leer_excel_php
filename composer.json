@@ -1,0 +1,14 @@
+{
+    "name": "parzibyte/leer_excel_php",
+    "description": "Ejemplo de c\u0000mo leer un archivo de Excel con PHP y PHPSpreadSheet",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ]
+}
